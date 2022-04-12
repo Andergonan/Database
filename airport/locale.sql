@@ -1,3 +1,4 @@
+CREATE DATABASE IF NOT EXISTS AwesomeAirport;
 DROP TABLE IF EXISTS airport;
 CREATE TABLE IF NOT EXISTS airport (
   code varchar(5) NOT NULL,
