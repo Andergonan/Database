@@ -2,4 +2,4 @@
 
 ## Schéma databáze
 
-img(https://raw.githubusercontent.com/Andergonan/Database/main/db_evidence_majetku/evidence_majetku_navrh.png)
+![evidence_majetku_navrh.png](https://raw.githubusercontent.com/Andergonan/Database/main/db_evidence_majetku/evidence_majetku_navrh.png)
